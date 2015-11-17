@@ -105,7 +105,7 @@ Pod::Spec.new do |s|
   #  non-essential files like tests, examples and documentation.
   #
 
-  s.resource  = "ZHSelectView/ZHSelectView/ZHSelectView/demoSelectType.plist"
+  s.resource  = "demoSelectType.plist"
   # s.resources = "Resources/*.png"
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
